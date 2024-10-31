@@ -1,0 +1,79 @@
+/* Admin style */
+.queerify-wrap {
+    position: relative;
+}
+
+.queerify-wrap * {
+    position: relative;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.queerify-wrap noscript {
+    font-weight: bold;
+    font-size: 24px;
+    color: red;
+}
+
+.queerify-wrap .title {
+    padding: 25px 0;
+    background: #061228;
+    background-image: url("../img/gay.png");
+    background-size: 100% 100%;
+    margin: 0 10px 0 0;
+}
+
+.queerify-wrap h1 {
+    padding: 0 10px;
+    color: #061228;
+}
+
+.queerify-wrap .logo {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    width: 120px;
+    height: 85px;
+    background-image: url("../img/imoptimal-logo-white.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.queerify-wrap .logo:hover {
+    -webkit-transform: scaleY(1.25) scaleX(1.25);
+    transform: scaleY(1.25) scaleX(1.25);
+}
+
+#queerify_basic .flag {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 150px;
+    height: 100px;
+}
+
+.queerify-wrap .button {
+    color: #34ab00;
+    background-color: #061228;
+    border: none;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.queerify-wrap .button:hover {
+    color: #061228;
+    background-color: #34ab00;
+}
+
+/* Responsive design */
+
+@media screen and (max-width: 900px) {
+    #queerify_basic .flag {
+        position: absolute;
+        right: 10px;
+        top: 0;
+        width: 100px;
+        height: 67px;
+    }
+}

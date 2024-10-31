@@ -1,0 +1,133 @@
+# Copyright (C) 2020 queerify
+# This file is distributed under the same license as the queerify package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Queerify\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Ivan @ imoptimal.com <info@imoptimal.com>\n"
+"Last-Translator: imoptimal <info@imoptimal.com>\n"
+"Report-Msgid-Bugs-To: https://www.imoptimal.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-queerify.php:349
+msgid "IMPORTANT: Javascript must be turned ON in your browser settings in order for this plugin to work!"
+msgstr ""
+
+#: class-queerify.php:350
+msgid "Ratings & Reviews"
+msgstr ""
+
+#: class-queerify.php:351
+msgid "If you like this plugin, please consider leaving a"
+msgstr ""
+
+#: class-queerify.php:352
+msgid "rating"
+msgstr ""
+
+#: class-queerify.php:353
+msgid "A huge thanks in advance!"
+msgstr ""
+
+#: class-queerify.php:354
+msgid "Leave us a rating"
+msgstr ""
+
+#: class-queerify.php:355
+msgid "About the plugin"
+msgstr ""
+
+#: class-queerify.php:356
+msgid "Developed by:"
+msgstr ""
+
+#: class-queerify.php:357
+msgid "Need some support?"
+msgstr ""
+
+#: class-queerify.php:358
+msgid "Contact the developers via the Support Forum"
+msgstr ""
+
+#: class-queerify.php:359
+msgid "Contact us"
+msgstr ""
+
+#: queerify.php:53
+msgid "Basic Options"
+msgstr ""
+
+#: queerify.php:62
+msgid "Minification"
+msgstr ""
+
+#: queerify.php:63
+msgid "Check this box if you want to minify plugins files (sripts and styles)"
+msgstr ""
+
+#: queerify.php:74
+msgid "Gender Identity"
+msgstr ""
+
+#: queerify.php:75
+msgid "Choose your gender identity, that will be reflected in coresponding flag within the loading screen (preview of the flag - to the right)"
+msgstr ""
+
+#: queerify.php:77
+msgid "Gay (default)"
+msgstr ""
+
+#: queerify.php:78
+msgid "Lesbian"
+msgstr ""
+
+#: queerify.php:79
+msgid "Bisexual"
+msgstr ""
+
+#: queerify.php:80
+msgid "Transgender"
+msgstr ""
+
+#: queerify.php:81
+msgid "Intersex"
+msgstr ""
+
+#: queerify.php:82
+msgid "Genderqueer"
+msgstr ""
+
+#: queerify.php:83
+msgid "Non-binary"
+msgstr ""
+
+#: queerify.php:84
+msgid "Agender"
+msgstr ""
+
+#: queerify.php:85
+msgid "Asexual"
+msgstr ""
+
+#: queerify.php:86
+msgid "Genderfluid"
+msgstr ""
+
+#: queerify.php:87
+msgid "Pansexual"
+msgstr ""
+
+#: queerify.php:88
+msgid "I'm a star!"
+msgstr ""
